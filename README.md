@@ -13,7 +13,7 @@ This project is a secure, role-based employee login and authentication system bu
 - 📁 SQL Scripts
   - flight_booking_system.sql            
   - Queries_Flight_Booking_System.sql   
-- 📄 Full report with screenshots included in Flight Booking Report.pdf
+- 📄 Full report with screenshots included in Flight Booking System.pdf
 
 ## 📌 Project Goals
 - ✅ Design a normalized database for a flight booking system  
